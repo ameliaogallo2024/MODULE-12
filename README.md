@@ -1,6 +1,5 @@
 # Module 12 Assignment: Business Analytics Fundamentals and Applications
 
-## Project Title
 **GreenGrocer Data Analysis**
 
 ## Description
